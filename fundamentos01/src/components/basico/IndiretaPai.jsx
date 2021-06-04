@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 
-import IndiretaFilho from ',/IndiretaFilho'
+import IndiretaFilho from './IndiretaFilho'
 
 export default props => {
     const [curso, setCurso] = useState('Desenvolvimento de Sistemas')
